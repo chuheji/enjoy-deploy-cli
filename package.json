@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "A cli tool for web deploy.",
     "bin": {
-        "deploy": "./bin/index.js"
+        "enjoy-deploy-cli": "./bin/index.js"
     },
     "keywords": [
         "web",
