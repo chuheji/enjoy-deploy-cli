@@ -1,6 +1,6 @@
 {
     "name": "enjoy-deploy-cli",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A cli tool for web deploy.",
     "bin": {
         "enjoy-deploy-cli": "./bin/index.js"

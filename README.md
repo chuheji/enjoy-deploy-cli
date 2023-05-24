@@ -10,8 +10,9 @@
 npm i enjoy-deploy-cli -g
 ```
 查看版本，表示安装成功。
-
-![安装enjoy-deploy-cli](./imgs/安装deploy.png)
+```
+enjoy-deploy-cli -v
+```
 
 ## 使用
 ### 1.初始化部署模板
