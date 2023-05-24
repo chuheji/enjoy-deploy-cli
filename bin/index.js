@@ -40,7 +40,7 @@ if (!firstArg) {
 }
 
 // 部署流程
-function deploy() {
+function deploy () {
     // 检测部署配置是否合理
     const deployConfigs = checkDeployConfig(deployConfigPath);
     if (!deployConfigs) {

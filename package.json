@@ -1,6 +1,6 @@
 {
     "name": "enjoy-deploy-cli",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "A cli tool for web deploy.",
     "bin": {
         "enjoy-deploy-cli": "./bin/index.js"
@@ -10,7 +10,7 @@
         "node-ssh",
         "deploy"
     ],
-    "author": "dadaiwei",
+    "author": "lyx",
     "license": "ISC",
     "engines": {
         "node": ">=9.0.0"

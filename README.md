@@ -16,7 +16,7 @@ npm i enjoy-deploy-cli -g
 ## 使用
 ### 1.初始化部署模板
 ```
-deploy init
+enjoy-deploy-cli init
 ```
 
 ![初始化](./imgs/初始化.png)
@@ -58,7 +58,7 @@ module.exports = {
 ### 3.查看部署命令
 配置好`deploy.config.js`，运行
 ```
-deploy --help
+enjoy-deploy-cli --help
 ```
 查看部署命令
 
@@ -67,7 +67,7 @@ deploy --help
 ### 4.测试环境部署
 测试环境部署采用的时`dev`的配置
 ```
-deploy dev
+enjoy-deploy-cli dev
 ```
 先有一个确认，确认后进入部署流程，完成6步操作后，部署成功！！！
 
@@ -76,7 +76,7 @@ deploy dev
 ### 5.线上环境部署
 线上环境部署采用的时`prod`的配置
 ```
-deploy prod
+enjoy-deploy-cli prod
 ```
 部署流程和测试环境相同：
 
